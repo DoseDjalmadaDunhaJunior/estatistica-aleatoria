@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/estatistica/aleatorio/Condicional.hpp
+Variaveis.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/estatistica/aleatorio/Variaveis.hpp
+Fatorial.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/estatistica/aleatorio/Fatorial.hpp
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/estatistica/aleatorio/Fatorial.hpp
+iostream
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/estatistica/aleatorio/Variaveis.hpp
+iostream
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/estatistica/aleatorio/main.cpp
+Condicional.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/estatistica/aleatorio/Condicional.hpp
+Fatorial.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/quinto_semestre/estatistica/aleatorio/Fatorial.hpp
+
